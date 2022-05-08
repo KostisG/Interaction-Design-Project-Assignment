@@ -40,12 +40,12 @@ Oταν ο χρήστης θέλει να μάθει την θερμοκρασί
 
 -Technologies we are planning to use 
 
----->Arduino Board
----->Rgb Led 
----->Temperature sensor 
----->Connection cables
----->Turn on/off button 
----->Resistors
+-->Arduino Board
+-->Rgb Led 
+-->Temperature sensor 
+-->Connection cables
+-->Turn on/off button 
+-->Resistors
 
 # 2nd Deliverable
 INFORMATION ARCHITECTURE
