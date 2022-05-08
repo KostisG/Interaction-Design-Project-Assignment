@@ -48,7 +48,13 @@ Turn on/off button
 Resistors
 
 # 2nd Deliverable
-ahdraikjr9ieu98u -->  assyuiewghro IWEU
+INFORMATION ARCHITECTURE
+
+PRODUCT 
+
+        ----> ΨΗΦΙΑΚΟ --> ΜΕΤΡΗΣΗ ΘΕΡΜΟΚΑΣΙΑΣ -> ΜΕΣΟ TEMP SENSOR -> ΤΕMP<20 --> BLUE LED \ TEMP>25 --> RED LED 
+
+      
 
 # 3rd Deliverable 
 
@@ -57,3 +63,10 @@ ahdraikjr9ieu98u -->  assyuiewghro IWEU
 
 
 # Sources
+
+
+
+
+
+
+
