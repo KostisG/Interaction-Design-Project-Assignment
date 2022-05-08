@@ -31,21 +31,21 @@ Oταν ο χρήστης θέλει να μάθει την θερμοκρασί
 -Ανταγωνιστικά προϊόντα 
 
 
-Θερμόμετρα ( υδραργύρου, ηλεκτρονικό..)
+-->Θερμόμετρα ( υδραργύρου, ηλεκτρονικό..)
 
-Ψηφιακό θερμόμετρο ανέπαφης μέτρησης 
+-->Ψηφιακό θερμόμετρο ανέπαφης μέτρησης 
 
-Κάμερες ανίχνευσης θερμοκρασίας
+-->Κάμερες ανίχνευσης θερμοκρασίας
 
 
 -Technologies we are planning to use 
 
-Arduino Board
-Rgb Led 
-Temperature sensor 
-Connection cables
-Turn on/off button 
-Resistors
+-->Arduino Board
+-->Rgb Led 
+-->Temperature sensor 
+-->Connection cables
+-->Turn on/off button 
+-->Resistors
 
 # 2nd Deliverable
 INFORMATION ARCHITECTURE
