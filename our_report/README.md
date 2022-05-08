@@ -53,7 +53,7 @@ INFORMATION ARCHITECTURE
 PRODUCT 
 
         ----> ΨΗΦΙΑΚΟ --> ΜΕΤΡΗΣΗ ΘΕΡΜΟΚΑΣΙΑΣ -> ΜΕΣΟ TEMP SENSOR -> ΤΕMP<20 --> BLUE LED \ TEMP>25 --> RED LED 
-
+        ----> ΑΝΑΛΟΓΙΚΟ --> ΚΟΥΜΠΙ -> ΕΝΕΡΓΟΠΟΙΗΣΗΣ\ΑΠΕΝΕΡΓΟΠΟΙΗΣΗΣ
       
 
 # 3rd Deliverable 
