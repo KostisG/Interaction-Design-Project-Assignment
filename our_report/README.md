@@ -101,6 +101,11 @@ INTERFACE DESIGN
 7. με αυτο τον τροπο θα ξερει ο χρηστης ποια ειναι η θερμοκρασια στο δωματιο
 
 
+StotyBoard 
+
+![286433211_577886253762452_8090984384099547463_n](https://user-images.githubusercontent.com/100956128/172930052-0784a0e6-7b1e-4a7b-9257-6536e3546b80.jpg)
+
+
 # Conclusions
 
 
